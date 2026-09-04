@@ -4,7 +4,8 @@ A Python-based AI chatbot application built with **Chainlit**, the **OpenAI Agen
 
 The project provides a simple conversational interface where users can interact with an AI agent while maintaining conversation history during the chat session.
 
-![Chatbot Screenshot](Browser-screenshot.png)
+<img width="839" height="567" alt="image" src="https://github.com/user-attachments/assets/b17ace78-c662-4008-8267-45cec09eb2d9" />
+
 
 ---
 
